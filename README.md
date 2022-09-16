@@ -10,7 +10,7 @@ TASK PERFORMED:
 PROBLEM STATEMENT 
 Develop a smart agriculture dashboard to measure parameters like moisture, ph. level, sunlight and other such parameters and create a dashboard to display all parameters and also buttons for controlling water pumps.
 Read More:
-https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/PROBLEM%20STATEMENT.txt
+https://github.com/Piyush8182/Smart-Farming-Management-System/blob/9ad0d257e45900c270d37e9237e5bcd5dda20dc3/PROBLEM%20STATEMENT.txt
  
 Tools Used:
 Software Tools
