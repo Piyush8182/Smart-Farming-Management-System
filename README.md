@@ -3,14 +3,14 @@ Internship Project at TEQUED LABS (Bangalore)
 
 
 About TEQUED LABS
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/About%20TEQUED%20LABS.txt
+https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/About%20TEQUED%20LABS.txt
 
 
 TASK PERFORMED:
 PROBLEM STATEMENT 
 Develop a smart agriculture dashboard to measure parameters like moisture, ph. level, sunlight and other such parameters and create a dashboard to display all parameters and also buttons for controlling water pumps.
 Read More:
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/PROBLEM%20STATEMENT.txt
+https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/PROBLEM%20STATEMENT.txt
  
 Tools Used:
 Software Tools
@@ -24,7 +24,7 @@ Blynk
 ![image](https://user-images.githubusercontent.com/64147100/136645575-6fdcf154-af09-4645-9da5-d91531356f04.png)
 
 Read more:
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/Software%20Tools
+https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/Software%20Tools
 
 Hardware Requierd :
 
@@ -68,7 +68,7 @@ Read More: https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project
 3.6 Methodology
 3.6.1 Interfacing code for sensors and NodeMCU
 code:
-https://github.com/MohammedNayaz/Smart-Agriculture-System-IoT-Project/blob/main/smartAgri.ino
+https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/smartAgri.ino
 __________________________________________________________________________
  
 Gauge setup in Blync app
