@@ -68,7 +68,7 @@ Read More: https://github.com/Piyush8182/Smart-Farming-Management-System/blob/8d
 3.6 Methodology
 3.6.1 Interfacing code for sensors and NodeMCU
 code:
-https://github.com/Piyush8182/Smart-Agriculture-System-IoT-Project/blob/main/smartAgri.ino
+https://github.com/Piyush8182/Smart-Farming-Management-System/blob/e75863983a10d3d569db95b68db211cb21715248/smartAgri.ino
 __________________________________________________________________________
  
 Gauge setup in Blync app
